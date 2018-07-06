@@ -1,4 +1,4 @@
-# Survey with-list view
+# Survey with list view
 ## PHP demo survey with list and view page
 
 ### The List page will:
